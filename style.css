@@ -17,6 +17,9 @@ a {
 
 body {
     background-image: linear-gradient( to bottom right, rgba(79,51,176,1.0),rgba(210,53,165));
+    background: url(./img3.jpg);
+    background-position:bottom;
+    background-size: cover;
 }
 
 .container {
@@ -66,7 +69,7 @@ body {
 
 #display {
     margin: 0 10px;
-    height: 150px;
+    height: 130px;
     width: auto;
     max-width: 270px;
     display: flex;
